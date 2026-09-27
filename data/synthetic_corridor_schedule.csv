@@ -1,0 +1,25 @@
+service_id,service_line,type,direction,lane,headway_min,phase_min,cruise_kmh,origin,destination
+RE 1-01,RE 1,RE,eastbound,0,30,0,140,koln,dortmund
+RE 1-02,RE 1,RE,eastbound,0,30,30,140,koln,dortmund
+RE 1-03,RE 1,RE,eastbound,0,30,60,140,koln,dortmund
+RE 1-04,RE 1,RE,eastbound,0,30,90,140,koln,dortmund
+RE 1-51,RE 1,RE,westbound,1,30,15,140,dortmund,koln
+RE 1-52,RE 1,RE,westbound,1,30,45,140,dortmund,koln
+RE 1-53,RE 1,RE,westbound,1,30,75,140,dortmund,koln
+RE 1-54,RE 1,RE,westbound,1,30,105,140,dortmund,koln
+ICE 612,ICE 6,ICE,eastbound,2,30,5,190,koln,dortmund
+ICE 614,ICE 6,ICE,eastbound,2,30,35,190,koln,dortmund
+ICE 616,ICE 6,ICE,eastbound,2,30,65,190,koln,dortmund
+ICE 618,ICE 6,ICE,eastbound,2,30,95,190,koln,dortmund
+ICE 729,ICE 7,ICE,westbound,3,30,20,190,dortmund,koln
+ICE 731,ICE 7,ICE,westbound,3,30,50,190,dortmund,koln
+ICE 733,ICE 7,ICE,westbound,3,30,80,190,dortmund,koln
+ICE 735,ICE 7,ICE,westbound,3,30,110,190,dortmund,koln
+S 11-01,S 11,S,eastbound,4,20,0,100,koln,dortmund
+S 11-02,S 11,S,eastbound,4,20,20,100,koln,dortmund
+S 11-03,S 11,S,eastbound,4,20,40,100,koln,dortmund
+S 11-04,S 11,S,eastbound,4,20,60,100,koln,dortmund
+RB 40-01,RB 40,RB,westbound,5,30,10,130,dortmund,koln
+RB 40-02,RB 40,RB,westbound,5,30,40,130,dortmund,koln
+RB 40-03,RB 40,RB,westbound,5,30,70,130,dortmund,koln
+RB 40-04,RB 40,RB,westbound,5,30,100,130,dortmund,koln
